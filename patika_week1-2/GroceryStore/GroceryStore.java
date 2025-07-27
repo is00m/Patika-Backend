@@ -5,6 +5,8 @@ import java.util.Scanner;
 public class GroceryStore {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
+
+
         double pear = 2.14;
         double apple = 3.67;
         double tomato = 1.11;
