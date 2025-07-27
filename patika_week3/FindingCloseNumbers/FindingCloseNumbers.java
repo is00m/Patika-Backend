@@ -43,5 +43,6 @@ public class FindingCloseNumbers {
         System.out.println("Aradaki Fark : " + minGap);
         System.out.println("İlk Sayı : " + closeNum2);
         System.out.println("İkinci Sayı : " + closeNum1);
+        input.close();
     }
 }
