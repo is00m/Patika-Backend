@@ -1,4 +1,4 @@
-# Harf Listesi İşleme Programı
+# Harf Bulma Oyunu
 
 Bu Java programı, başlangıçta belirlenmiş olan 4 harfli bir `ArrayList` üzerinde kullanıcıdan alınan harf girdilerine göre işlem yapar. Program, kullanıcıdan 4 kez harf girişi alır ve bu harflerin listeyle karşılaştırılmasına göre listeyi günceller.
 
