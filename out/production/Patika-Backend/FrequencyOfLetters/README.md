@@ -30,4 +30,3 @@ Bu Java programı, kullanıcıdan bir kelime (String) girişi alır ve bu kelime
     m = 1
 
 #### ⚠️ Not: Bu çalışmada Türkçe karakterler (ç, ğ, ş vs.) dahil değil yani şu anki haliyle sadece İngilizce harfleri kapsıyor.
-)
