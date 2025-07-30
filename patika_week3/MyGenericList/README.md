@@ -2,8 +2,8 @@
 
 Bu proje, Java'da generic yapılar kullanılarak kendi **liste (list)** sınıfımızı oluşturmaya yönelik bir çalışmadır.
 
-📌 **Not:** Java'daki hazır `ArrayList`, `LinkedList` gibi `Collection` sınıfları kesinlikle kullanılmamıştır.
-Yazdırma aşamasında işimizi kolaylaştırması için `Arrays.toString` kullanılmıştır.
+📌 **Not:** Java'daki hazır `ArrayList`, `LinkedList` gibi `Collection` sınıfları kullanılmamaya özen gösterilmiştir
+sadece yazdırma aşamasında işimizi kolaylaştırması için `Arrays.toString` kullanılmıştır.
 ---
 
 ## 🎯 Projenin Amacı
