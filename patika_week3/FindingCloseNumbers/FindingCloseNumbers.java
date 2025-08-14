@@ -10,7 +10,7 @@ public class FindingCloseNumbers {
         ArrayList<Integer> nums = new ArrayList<>(10);
 
         //ArrayList'in içini doldurup pozitif olup olmadığını kontrol ediyoruz
-        for (int i = 1; i <= 10; i++) {
+            for (int i = 1; i <= 10; i++) {
             boolean isPositive = false;
             do {
                 System.out.print(i + ". Sayıyı giriniz : ");
@@ -40,9 +40,9 @@ public class FindingCloseNumbers {
             }
 
         }
-        System.out.println("Aradaki Fark : " + minGap);
-        System.out.println("İlk Sayı : " + closeNum2);
-        System.out.println("İkinci Sayı : " + closeNum1);
+                System.out.println("Aradaki Fark : " + minGap);
+                System.out.println("İlk Sayı : " + closeNum2);
+                System.out.println("İkinci Sayı : " + closeNum1);
         input.close();
     }
 }
