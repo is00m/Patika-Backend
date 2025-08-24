@@ -29,26 +29,16 @@ Kod yapısı anlaşılır ve geliştirilebilir olacak şekilde organize edilmiş
 
 ## 🔗 GitHub Bağlantısı
 
-> **Not:**  
-> Bu projeye ait GitHub bağlantısı, gerekli düzenlemeler ve son kontroller tamamlandıktan sonra **10 Ağustos 2025** tarihinden itibaren bu alanda paylaşılacaktır.
->
-> Bu tarihten sonra bağlantı üzerinden projenin tüm kaynak kodlarına, dokümantasyonuna ve proje detaylarına erişebilirsiniz.  
-> İlginiz ve anlayışınız için teşekkür ederiz.
-
----
-
-## ⚙️ Kurulum & Çalıştırma
-
-> Proje GitHub’a yüklendikten sonra bu kısım detaylandırılacaktır.
+> [is00m/Library-Management-System](https://github.com/is00m/Library-Management-System)
 
 ---
 
 ## 📅 Teslim ve Güncelleme Takvimi
 
-| Tarih        | Durum                         |
-|--------------|-------------------------------|
-| 4. Hafta     | Proje geliştirildi            |
-| 10 Ağustos   | GitHub bağlantısı eklenecek   |
+| Tarih        | Durum              |
+|--------------|--------------------|
+| 4. Hafta     | Proje geliştirildi |
+| 10 Ağustos   | Eklendi!           |
 
 ---
 
